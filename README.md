@@ -11,3 +11,8 @@ This was done as a part of Database management course project.
 `./build.sh`
 
 `./bin/bimock` and `./bin/simulator`
+
+
+## How to use
+
+Must deploy with [zoofront](https://github.com/ahsanbarkati/zoofront) and [zooback](https://github.com/ahsanbarkati/zooback).
